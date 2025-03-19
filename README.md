@@ -1,4 +1,6 @@
 # Personal Career Coach Application
+This is a group project and i was not the one who created the repository. Here is the link to the project if you want to review the code: https://github.com/yuvraaj-singh/John-The-Job-Seeker
+
 
 ## Overview
 The **Personal Career Coach** application is an innovative, AI-powered platform designed to help recent IT graduates successfully navigate the job market. It leverages cutting-edge Large Language Models (LLMs) and multimodal AI to provide tailored career support, including resume analysis, personalized job matching, interview preparation, and real-time company identification using visual recognition.
